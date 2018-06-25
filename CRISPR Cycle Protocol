@@ -1,7 +1,7 @@
 2018-6-25 Defined spacer acquisition (DSA) pilot experiment
 
 1.	Start liquid cultures of E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 from plates and grow overnight at 37°C
-2.	In the morning, dilute the overnight grown culture 1:30 in 3 mL (100 µl) fresh LB containing 25 μg/mL Chlo (3 µl of the 25 mg/mL stock) and 100 ng/uL aTc (3 µl from 100 mg/mL stock), and grow for an additional 2 h (we can try 2, 4, 6 h for this step to increase DSA efficiency) at 37°C.
+2.	In the morning, dilute the overnight grown culture 1:30 in 3 mL (100 µl) fresh LB containing 25 μg/mL Chlo (3 µl of the 25 mg/mL 1000x stock) and 100 ng/uL aTc (3 µl from 100 mg/mL 1000x stock), and grow for an additional 2 h (we can try 2, 4, 6 h for this step to increase DSA efficiency) at 37°C.
 3.	Spin down cells (1 mL of culture) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
 4.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM (we can try 3.125, 6.25, 12.5, 25 μM for this step to increase DSA efficiency), and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
 5.	Immediately following electroporation, resuspend cells in 3 mL fresh LB, and recover cells for overnight
