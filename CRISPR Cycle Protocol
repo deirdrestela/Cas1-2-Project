@@ -1,6 +1,6 @@
 2018-6-25 Defined spacer acquisition (DSA) pilot experiment
 
-1.  From cryostock, streak out E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 onto LB + Chlo (15 mL and 15 µL) plate, grow overnight__
+1.  From cryostock, streak out E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 onto LB + Chlo (15 mL and 15 µL) plate, grow overnight
 </br>
 2.  Start liquid cultures of E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 from plates and grow overnight at 37°C
 3.  In the morning, dilute the overnight grown culture 1:30 (100 µl) in 3 mL fresh LB containing 25 μg/mL Chlo (3 µl of the 1000x 25 mg/mL stock) and 100 ng/uL aTc (3 µl from 1000x stock), and grow for an additional 2 h at 37°C.
