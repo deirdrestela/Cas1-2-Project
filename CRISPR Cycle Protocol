@@ -1,11 +1,13 @@
 2018-6-25 Defined spacer acquisition (DSA) pilot experiment
 
 1.  From cryostock, streak out E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 onto LB + Chlo (15 mL and 15 µL) plate, grow overnight
-</br>
+
 2.  Start liquid cultures of E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 from plates and grow overnight at 37°C
+
 3.  In the morning, dilute the overnight grown culture 1:30 (100 µl) in 3 mL fresh LB containing 25 μg/mL Chlo (3 µl of the 1000x 25 mg/mL stock) and 100 ng/uL aTc (3 µl from 1000x stock), and grow for an additional 2 h at 37°C.
     - we can try 2, 4, 6 h for this step to increase DSA efficiency)
     - need to make a separate dilution for every replicate (10 total) 
+
 4.  During induction, PREP: 
     - centrifuge (4˚ C) 
     - ice 
@@ -14,15 +16,19 @@
     - empty eppendorfs for washes 
     - post-electroporation LB+Chlo media for each replicate
     - New 1000 & 200 tip boxes
+
 5.	Spin down cells (1 mL of culture) and resuspend and wash in 1 mL ice-cold water *three times* to remove residual media
     - centrifuge at 10,000 rpm for 1 min at 4°C
     - last wash, add extra minute at max RPM 
+
 6.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω. 
     - we can try 3.125, 6.25, 12.5, 25 μM for this step to increase DSA efficiency
     - switch the electroporation wires to the right machine for expt
     - tap the cuvettes to bring solution down between metal plates, dry off before electroporation
+
 7.  Immediately following electroporation, resuspend cells in 3 mL fresh LB+Chlo, and recover cells for overnight
     - switch the electroporation wires back to the left afterwards
+
 8.  Repeat 3 times
 
 
