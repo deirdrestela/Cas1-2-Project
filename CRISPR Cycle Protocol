@@ -1,12 +1,28 @@
 2018-6-25 Defined spacer acquisition (DSA) pilot experiment
 
-1.	From cryostock, streak out E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 onto LB + Chlo (15 mL and 15 µL) plate
+1.	From cryostock, streak out E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 onto LB + Chlo (15 mL and 15 µL) plate, grow overnight
 2.  Start liquid cultures of E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 from plates and grow overnight at 37°C
-3.	In the morning, dilute the overnight grown culture 1:30 in 3 mL (100 µl) fresh LB containing 25 μg/mL Chlo (3 µl of the 25 mg/mL 1000x stock) and 100 ng/uL aTc (3 µl from 100 mg/mL 1000x stock), and grow for an additional 2 h (we can try 2, 4, 6 h for this step to increase DSA efficiency) at 37°C.
-4.	Spin down cells (1 mL of culture) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
-5.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM (we can try 3.125, 6.25, 12.5, 25 μM for this step to increase DSA efficiency), and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
-6.	Immediately following electroporation, resuspend cells in 3 mL fresh LB+Chlo, and recover cells for overnight
-7.	Repeat 3 times
+3.	In the morning, dilute the overnight grown culture 1:30 (100 µl) in 3 mL fresh LB containing 25 μg/mL Chlo (3 µl of the 1000x 25 mg/mL stock) and 100 ng/uL aTc (3 µl from 1000x stock), and grow for an additional 2 h at 37°C.
+    - we can try 2, 4, 6 h for this step to increase DSA efficiency)
+    - need to make a separate dilution for every replicate (10 total) 
+4.  During induction, PREP: 
+    - centrifuge (4˚ C) 
+    - ice 
+    - dH20
+    - Chlo & oligos
+    - empty eppendorfs for washes 
+    - post-electroporation LB+Chlo media for each replicate
+    - New 1000 & 200 tip boxes 
+5.	Spin down cells (1 mL of culture) and resuspend and wash in 1 mL ice-cold water *three times* to remove residual media
+    - centrifuge at 10,000 rpm for 1 min at 4°C
+    - last wash, add extra minute at max RPM 
+6.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω. 
+    - we can try 3.125, 6.25, 12.5, 25 μM for this step to increase DSA efficiency
+    - switch the electroporation wires to the right machine for expt
+    - tap the cuvettes to bring solution down between metal plates, dry off before electroporation
+7.	Immediately following electroporation, resuspend cells in 3 mL fresh LB+Chlo, and recover cells for overnight
+    - switch the electroporation wires back to the left afterwards
+8.	Repeat 3 times
 
 
 
@@ -22,6 +38,6 @@ T7 (fwd): 5’AAGCCCTATAGTGAGTCGTATTAATTTCGCGGGAT
 T7 (rev): 5’ATCCCGCGAAATTAATACGACTCACTATAGGGCTT
 
 1.	Mix 50 μM of each of fwd and rev oligos in 1:1 ratio, heat at 95C then slowly cool down to room temp to anneal oligos and get 25 μM of defined spacer oligo solution.
-##Note – made 50 µM stocks by resuspending the ordered oligos in (2xng x 10) µl nuclease free water, vortexing & putting on heat block & repeating til dissolved
+    ##Note – made 50 µM stocks by resuspending the ordered oligos in (2xng x 10) µl nuclease free water, vortexing & putting on heat block & repeating til dissolved
 2.	2-fold serial dilution (500 µl to 500 µl water) to get 25, 12.5, 6.25, 3.125 μM concentrations
 3.	Store at -20°C
