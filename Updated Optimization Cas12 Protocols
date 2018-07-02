@@ -1,0 +1,269 @@
+2018-6-28 Defined spacer acquisition (DSA) experiment
+
+1.	Acquisition efficiency comparison of psAA33 & T7 spacers [2 day experiments]
+
+
+
+
+[Day 0]
+1.	Start liquid cultures of E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 from plates in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and grow overnight at 37°C [one tube]
+
+[Day 1]
+2.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [Label this tube “Day0”]
+3.	dilute the overnight grown culture 1:30 in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and 100 ng/uL aTc (1000x stock: 3 uL into 3 mL), and grow for an additional 2 h at 37°C. [dilute the overnight grown culture into 7 different tubes]
+Label
+•	Day1, no oligo control – rep1
+•	Day1, psAA33 – rep1
+•	Day1, psAA33 – rep2
+•	Day1, psAA33 – rep3
+•	Day1, T7 – rep1
+•	Day1, T7 – rep2
+•	Day1, T7 – rep3
+4.	PREP:
+a.	centrifuge (4˚ C) 
+b.	ice 
+c.	dH20
+d.	Chlo & oligos
+e.	empty eppendorfs for washes 
+f.	post-electroporation LB+Chlo media for each replicate
+g.	New 1000 & 200 tip boxes
+h.	Labeled cuvettes 
+
+5.	Spin down cells (1 mL of culture from each tube) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
+6.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM no oligo(water), psAA33, T7 solutions, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
+7.	Immediately following electroporation, resuspend cells in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL), and recover cells for overnight [7 tubes]
+
+[Day 2]
+8.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [7 samples]
+9.	dilute the overnight grown culture 1:30 in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and 100 ng/uL aTc (1000x stock: 3 uL into 3 mL), and grow for an additional 2 h at 37°C. [7 tubes]
+Label
+•	Day2, no oligo control – rep1
+•	Day2, psAA33 – rep1
+•	Day2, psAA33 – rep2
+•	Day2, psAA33 – rep3
+•	Day2, T7 – rep1
+•	Day2, T7 – rep2
+•	Day2, T7 – rep3
+10.	PREP: 
+a.	centrifuge (4˚ C) 
+b.	ice 
+c.	dH20
+d.	Chlo & oligos
+e.	empty eppendorfs for washes 
+f.	post-electroporation LB+Chlo media for each replicate
+g.	New 1000 & 200 tip boxes
+h.	Labeled cuvettes 
+
+11.	Spin down cells (1 mL of culture from each tube) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
+12.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM no oligo(water), psAA33, T7 solution, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
+13.	Immediately following electroporation, resuspend cells in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL), and recover cells for overnight [7 tubes]
+
+[Day 3]
+1.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [7 samples]
+
+Total 15 samples
+1.	Day0
+2.	Day1, no oligo control – rep1
+3.	Day1, psAA33 – rep1
+4.	Day1, psAA33 – rep2
+5.	Day1, psAA33 – rep3
+6.	Day1, T7 – rep1
+7.	Day1, T7 – rep2
+8.	Day1, T7 – rep3
+9.	Day2, no oligo control – rep1
+10.	Day2, psAA33 – rep1
+11.	Day2, psAA33 – rep2
+12.	Day2, psAA33 – rep3
+13.	Day2, T7 – rep1
+14.	Day2, T7 – rep2
+15.	Day2, T7 – rep3
+
+
+
+
+
+
+
+
+ 
+2.	Induction time test [2 day experiments]
+
+[Day 0]
+1.	Start liquid cultures of E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 from plates in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and grow overnight at 37°C [one tube]
+
+[Day 1]
+2.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [Label this tube “Day0”]
+3.	dilute the overnight grown culture 1:30 in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and 100 ng/uL aTc (1000x stock: 3 uL into 3 mL), and grow for an additional 2, 4, or 6 h at 37°C. [dilute the overnight grown culture into 9 different tubes]
+Label
+•	Day1, T7, 2h – rep1
+•	Day1, T7, 2h – rep2
+•	Day1, T7, 2h – rep3
+•	Day1, T7, 4h – rep1
+•	Day1, T7, 4h – rep2
+•	Day1, T7, 4h – rep3
+•	Day1, T7, 6h – rep1
+•	Day1, T7, 6h – rep2
+•	Day1, T7, 6h – rep3
+4.	PREP: 
+a.	centrifuge (4˚ C) 
+b.	ice 
+c.	dH20
+d.	Chlo & oligos
+e.	empty eppendorfs for washes 
+f.	post-electroporation LB+Chlo media for each replicate
+g.	New 1000 & 200 tip boxes
+h.	Labeled cuvettes 
+
+5.	After 2, 4, and 6 hours, take the tubes of each time point, spin down cells (1 mL of culture from each tube) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
+6.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM T7 solution, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
+7.	Immediately following electroporation, resuspend cells in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL), and recover cells for overnight [total 9 tubes]
+
+[Day 2]
+8.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [9 samples]
+9.	dilute the overnight grown culture 1:30 in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and 100 ng/uL aTc (1000x stock: 3 uL into 3 mL), and grow for an additional 2, 4, or 6 h at 37°C. [dilute the overnight grown culture into 9 different tubes]
+Label
+•	Day2, T7, 2h – rep1
+•	Day2, T7, 2h – rep2
+•	Day2, T7, 2h – rep3
+•	Day2, T7, 4h – rep1
+•	Day2, T7, 4h – rep2
+•	Day2, T7, 4h – rep3
+•	Day2, T7, 6h – rep1
+•	Day2, T7, 6h – rep2
+•	Day2, T7, 6h – rep3
+10.	PREP: 
+a.	centrifuge (4˚ C) 
+b.	ice 
+c.	dH20
+d.	Chlo & oligos
+e.	empty eppendorfs for washes 
+f.	post-electroporation LB+Chlo media for each replicate
+g.	New 1000 & 200 tip boxes
+h.	Labeled cuvettes 
+
+11.	After 2, 4, and 6 hours, take the tubes of each time point, spin down cells (1 mL of culture from each tube) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
+12.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125 μM T7 solution, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
+13.	Immediately following electroporation, resuspend cells in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL), and recover cells for overnight [total 9 tubes]
+
+[Day 3]
+2.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [9 samples]
+
+Total 19 samples
+1.	Day0
+2.	Day1, T7, 2h – rep1
+3.	Day1, T7, 2h – rep2
+4.	Day1, T7, 2h – rep3
+5.	Day1, T7, 4h – rep1
+6.	Day1, T7, 4h – rep2
+7.	Day1, T7, 4h – rep3
+8.	Day1, T7, 6h – rep1
+9.	Day1, T7, 6h – rep2
+10.	Day1, T7, 6h – rep3
+11.	Day2, T7, 2h – rep1
+12.	Day2, T7, 2h – rep2
+13.	Day2, T7, 2h – rep3
+14.	Day2, T7, 4h – rep1
+15.	Day2, T7, 4h – rep2
+16.	Day2, T7, 4h – rep3
+17.	Day2, T7, 6h – rep1
+18.	Day2, T7, 6h – rep2
+19.	Day2, T7, 6h – rep3
+ 
+ 
+ 
+ 
+ 
+ 
+3.	Oligo concentration test [2 day experiments]
+
+[Day 0]
+1.	Start liquid cultures of E. coli BL21(DE3) ΔCR-I, GRA (ΔCRISPR-I, gfp(rev)-array) strain harboring pCas12 from plates in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and grow overnight at 37°C [one tube]
+
+[Day 1]
+2.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [Label this tube “Day0”]
+3.	dilute the overnight grown culture 1:30 in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and 100 ng/uL aTc (1000x stock: 3 uL into 3 mL), and grow for an additional 2 h at 37°C. [dilute the overnight grown culture into 12 different tubes]
+Label
+•	Day1, T7, 3.125 uM – rep1
+•	Day1, T7, 3.125 uM – rep2
+•	Day1, T7, 3.125 uM – rep3
+•	Day1, T7, 6.25 uM – rep1
+•	Day1, T7, 6.25 uM – rep2
+•	Day1, T7, 6.25 uM – rep3
+•	Day1, T7, 12.5 uM – rep1
+•	Day1, T7, 12.5 uM – rep2
+•	Day1, T7, 12.5 uM – rep3
+•	Day1, T7, 25 uM – rep1
+•	Day1, T7, 25 uM – rep2
+•	Day1, T7, 25 uM – rep3
+4.	PREP: 
+a.	centrifuge (4˚ C) 
+b.	ice 
+c.	dH20
+d.	Chlo & oligos
+e.	empty eppendorfs for washes 
+f.	post-electroporation LB+Chlo media for each replicate
+g.	New 1000 & 200 tip boxes
+h.	Labeled cuvettes 
+
+5.	Spin down cells (1 mL of culture from each tube) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
+6.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125, 6.25, 12.5, 25 μM T7 solution, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
+7.	Immediately following electroporation, resuspend cells in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL), and recover cells for overnight [total 12 tubes]
+
+[Day 1]
+8.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [12 tubes]
+9.	dilute the overnight grown culture 1:30 in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL) and 100 ng/uL aTc (1000x stock: 3 uL into 3 mL), and grow for an additional 2 h at 37°C. [dilute the overnight grown culture into 12 different tubes]
+Label
+•	Day2, T7, 3.125 uM – rep1
+•	Day2, T7, 3.125 uM – rep2
+•	Day2, T7, 3.125 uM – rep3
+•	Day2, T7, 6.25 uM – rep1
+•	Day2, T7, 6.25 uM – rep2
+•	Day2, T7, 6.25 uM – rep3
+•	Day2, T7, 12.5 uM – rep1
+•	Day2, T7, 12.5 uM – rep2
+•	Day2, T7, 12.5 uM – rep3
+•	Day2, T7, 25 uM – rep1
+•	Day2, T7, 25 uM – rep2
+•	Day2, T7, 25 uM – rep3
+10.	PREP: 
+a.	centrifuge (4˚ C) 
+b.	ice 
+c.	dH20
+d.	Chlo & oligos
+e.	empty eppendorfs for washes 
+f.	post-electroporation LB+Chlo media for each replicate
+g.	New 1000 & 200 tip boxes
+h.	Labeled cuvettes 
+11.	Spin down cells (1 mL of culture from each tube) and resuspend and wash in 1 mL ice-cold water three times to remove residual media (centrifuge at 10,000 rpm for 1 min) at 4°C.
+12.	Resuspend cells in 50 μL (per 1 mL of 3 mL culture) of cold water containing fwd and rev oligo strands* each at a concentration of 3.125, 6.25, 12.5, 25 μM T7 solution, and electroporate with a Bio-rad gene pulser set to 1.8 kV, 25 μF, and 200 Ω.
+13.	Immediately following electroporation, resuspend cells in 3 mL fresh LB containing 25 μg/mL Chlo (1000x stock: 3 uL into 3 mL), and recover cells for overnight [total 12 tubes]
+
+[Day 3]
+3.	In the morning, spin down 500 uL of the overnight grown culture at max rpm for 1 min at room temp, discard supernatant, and store cell pellet at -20C [12 samples]
+
+Total 25 samples
+1.	Day0
+2.	Day1, T7, 3.125 uM – rep1
+3.	Day1, T7, 3.125 uM – rep2
+4.	Day1, T7, 3.125 uM – rep3
+5.	Day1, T7, 6.25 uM – rep1
+6.	Day1, T7, 6.25 uM – rep2
+7.	Day1, T7, 6.25 uM – rep3
+8.	Day1, T7, 12.5 uM – rep1
+9.	Day1, T7, 12.5 uM – rep2
+10.	Day1, T7, 12.5 uM – rep3
+11.	Day1, T7, 25 uM – rep1
+12.	Day1, T7, 25 uM – rep2
+13.	Day1, T7, 25 uM – rep3
+14.	Day2, T7, 3.125 uM – rep1
+15.	Day2, T7, 3.125 uM – rep2
+16.	Day2, T7, 3.125 uM – rep3
+17.	Day2, T7, 6.25 uM – rep1
+18.	Day2, T7, 6.25 uM – rep2
+19.	Day2, T7, 6.25 uM – rep3
+20.	Day2, T7, 12.5 uM – rep1
+21.	Day2, T7, 12.5 uM – rep2
+22.	Day2, T7, 12.5 uM – rep3
+23.	Day2, T7, 25 uM – rep1
+24.	Day2, T7, 25 uM – rep2
+25.	Day2, T7, 25 uM – rep3
